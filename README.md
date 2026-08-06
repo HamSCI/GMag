@@ -1,0 +1,23 @@
+# hamsci-hardware
+A template repository for documenting HamSCI hardware. 
+
+## [Check out the example documentation pages here.](https://hamsci.github.io/hamsci-hardware)
+
+- [ ] Create a new repository using this template.
+- [ ] Update docs/_config.yml with information about the specific hardware you're documenting.
+- [ ] Populate the docs pages. 
+- [ ] Edit CITATION.cff file.
+- [ ] [Select a license](https://choosealicense.com/non-software/) and add a LICENSE.txt file.
+- [ ] Update this README by filling out the table below (from [_HardwareX_](https://doi.org/10.5281/zenodo.3364474)) and deleting this checklist.
+- [ ] Under Settings>Pages, set this to deploy as a Github page with main/docs as the root directory. You can find an example screenshot [here](https://github.com/HamSCI/hamsci-hardware/blob/main/docs/assets/images/deployment.png).
+- [ ] Verify that the documentation pages are published on hamsci.github.io.
+- [ ] When the repository is ready for release, [synchronize to a Zenodo repository](https://help.zenodo.org/docs/github/enable-repository/) and add DOI badge here.  
+
+
+|  			Hardware name 		          |  			Please specify the name 			of the hardware that you invented/customized 		                                                                                                                                                                                                                                                                                                                                                                           |
+|--------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|  			Subject area 		           |  			Please select the 			subject area most relevant to the original community for which 			this hardware was developed  			  			  				 Engineering 				and Material Science  				 Chemistry 				and Biochemistry  				 Medical 				(e.g. Pharmaceutical Science)  				 Neuroscience  				 Biological 				Sciences (e.g. Microbiology and Biochemistry)  				 Environmental, 				Planetary and Agricultural Sciences  				 Educational 				Tools and Open Source Alternatives to Existing Infrastructure  				 General 			 		 |
+|  			Hardware type 		          |  			 Imaging 				tools  				 Measuring 				physical properties and in-lab sensors  				 Biological 				sample handling and preparation  				 Field 				measurements and sensors  				 Electrical 				engineering and computer science  				 Mechanical 				engineering and materials science  				 Other [please 				specify] 			 		                                                                                                                                                                         |
+|  			Open Source License 		    |  			Please specify the open 			source license. For more details see the guide to authors.  			 		                                                                                                                                                                                                                                                                                                                                                           |
+|  			Cost of Hardware 		       |  			Approximate cost of 			hardware (complete breakdown will be included in the Bill of 			Materials). 		                                                                                                                                                                                                                                                                                                                                                   |
+|  			Source File Repository 		 |  			DOI 			URL to an approved source file repository: OSF, 			Mendeley 			Data 			or Zenodo. 			For example: http://doi.org/10.17605/OSF.IO/WGK7Q 		                                                                                                                                                                                                                                                                                                                 |
