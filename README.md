@@ -1,9 +1,8 @@
-# hamsci-hardware
-A template repository for documenting HamSCI hardware. 
+# HamSCI Ground Magnetometer
 
-## [Check out the example documentation pages here.](https://hamsci.github.io/hamsci-hardware)
+## [Check out the documentation pages here.](https://hamsci.github.io/GMag)
 
-- [ ] Create a new repository using this template.
+- [X] Create a new repository using this template.
 - [ ] Update docs/_config.yml with information about the specific hardware you're documenting.
 - [ ] Populate the docs pages. 
 - [ ] Edit CITATION.cff file.
