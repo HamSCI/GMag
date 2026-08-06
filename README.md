@@ -3,12 +3,12 @@
 ## [Check out the documentation pages here.](https://hamsci.github.io/GMag)
 
 - [X] Create a new repository using this template.
-- [ ] Update docs/_config.yml with information about the specific hardware you're documenting.
+- [X] Update docs/_config.yml with information about the specific hardware you're documenting.
 - [ ] Populate the docs pages. 
 - [ ] Edit CITATION.cff file.
 - [ ] [Select a license](https://choosealicense.com/non-software/) and add a LICENSE.txt file.
 - [ ] Update this README by filling out the table below (from [_HardwareX_](https://doi.org/10.5281/zenodo.3364474)) and deleting this checklist.
-- [ ] Under Settings>Pages, set this to deploy as a Github page with main/docs as the root directory. You can find an example screenshot [here](https://github.com/HamSCI/hamsci-hardware/blob/main/docs/assets/images/deployment.png).
+- [X] Under Settings>Pages, set this to deploy as a Github page with main/docs as the root directory. You can find an example screenshot [here](https://github.com/HamSCI/hamsci-hardware/blob/main/docs/assets/images/deployment.png).
 - [ ] Verify that the documentation pages are published on hamsci.github.io.
 - [ ] When the repository is ready for release, [synchronize to a Zenodo repository](https://help.zenodo.org/docs/github/enable-repository/) and add DOI badge here.  
 
